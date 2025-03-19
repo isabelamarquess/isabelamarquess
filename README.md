@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Olá, me chamo [Isabela Marques]() tenho 23 anos, e estou no 2º semestre do curso técnico em desenvolvimento de sistemas no IFB. Já realizei projetos próprios utilizando HTML, CSS e Javascript, e atualmente estou estudando phyton pelo curso Santander Tech. Já realizei cursos livres em que aprendi também [node.js, git e versionamento, figma.
+Olá, me chamo [Isabela Marques]() tenho 23 anos, e estou no 2º semestre do curso técnico em desenvolvimento de sistemas no IFB. Já realizei projetos próprios utilizando HTML, CSS e Javascript, e atualmente estou estudando python pelo curso Santander Tech. Já realizei cursos livres em que aprendi também node.js, git e versionamento, figma.
 
 <p align="left">
     <a href="https://github.com/isabelamarquess?tab=repositories&sort=stargazers">

@@ -1,8 +1,8 @@
 # 👩‍💻 Isabela Marques 
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedora Full Stack | Front-End | Back-End`**
 
-Olá, me chamo [Isabela Marques](https://www.linkedin.com/in/isabela-marques-725a92332/) tenho 23 anos, e estou no 2º semestre do curso técnico em desenvolvimento de sistemas no IFB. Já realizei projetos próprios utilizando HTML, CSS e Javascript, e atualmente estou estudando python pelo curso Santander Tech. Já realizei cursos livres em que aprendi também node.js, git e versionamento, figma.
+Olá, me chamo [Isabela Marques](https://www.linkedin.com/in/isabela-marques-725a92332/) tenho 24 anos, e estou no último semestre do curso técnico em desenvolvimento de sistemas no IFB. Já realizei projetos próprios utilizando HTML, CSS e Javascript, e atualmente estou estudando Back-End pelo curso Bolsa Programa Futuro Digital, utilizando a linguagem de progamação JavaScript. Além disso, já realizei diversos cursos livres e cada vez mais estou procurando me aperfeiçoar mais.
 
 <p align="left">
     <a href="https://github.com/isabelamarquess?tab=repositories&sort=stargazers">
@@ -57,14 +57,6 @@ Olá, me chamo [Isabela Marques](https://www.linkedin.com/in/isabela-marques-725
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>

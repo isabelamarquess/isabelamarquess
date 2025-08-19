@@ -64,14 +64,8 @@ Olá, me chamo [Isabela Marques](https://www.linkedin.com/in/isabela-marques-725
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=isabelamarquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
-
-</p>
-
+![](https://raw.githubusercontent.com/isabelamarquess/isabelamarquess/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/isabelamarquess/isabelamarquess/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/isabelamarquess/isabelamarquess/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/isabelamarquess/isabelamarquess/main/profile-summary-card-output/tokyonight/3-stats.svg)
+![](https://raw.githubusercontent.com/isabelamarquess/isabelamarquess/main/profile-summary-card-output/tokyonight/4-productive-time.svg)

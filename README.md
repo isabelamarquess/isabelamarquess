@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Full Stack | Front-End | Back-End`**
 
-Olá, me chamo [Isabela Marques](https://www.linkedin.com/in/isabela-marques-725a92332/) tenho 24 anos, e estou no último semestre do curso técnico em desenvolvimento de sistemas no IFB. Já realizei projetos próprios utilizando HTML, CSS e Javascript, e atualmente estou estudando Back-End pelo curso Bolsa Programa Futuro Digital, utilizando a linguagem de progamação JavaScript. Além disso, já realizei diversos cursos livres e cada vez mais estou procurando me aperfeiçoar mais.
+Olá, me chamo [Isabela Marques](https://www.linkedin.com/in/isabela-marques-725a92332/) tenho 24 anos, sou desenvolvedora Full-Stack com foco em Back-End e Front-end. Estou no último semestre do curso técnico em desenvolvimento de sistemas e  no primeiro semestre na graduação de análise e desenvolvimento de sistemas, também estou fazendo um curso de Back-End com JavaScript | Express. Tenho cerca de 1 ano de estudo na área de desenvolvimento e meu objetivo é me tornar uma grande desenvolvedora Full-Stack e conseguir contribuir muito para a tecnologia e inovação.
 
 <p align="left">
     <a href="https://github.com/isabelamarquess?tab=repositories&sort=stargazers">

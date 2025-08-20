@@ -1,9 +1,10 @@
+
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia meia-noite
-  workflow_dispatch: # permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,6 +12,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
 
       - name: Generate Snake
         uses: Platane/snk@v3
